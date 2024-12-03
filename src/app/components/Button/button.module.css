@@ -5,5 +5,6 @@
     border: none;
     border-radius: 5px;
     width: max-content;
-    color: white
+    color: white;
+    box-shadow: 0px 0px 40px #bbb;
 }
